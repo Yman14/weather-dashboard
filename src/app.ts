@@ -2,9 +2,12 @@ import { getWeather } from "./api.js";
 import {type WeatherResponse } from "./weatherInterface.js";
 
 const cities = [
-    "London",
-    "Tokyo",
-    "New York"
+  "Manila",
+  "Tokyo",
+  "Singapore",
+  "London",
+  "New York",
+  "Sydney"
 ];
 
 
